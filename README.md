@@ -1,2 +1,3 @@
-# Data_Visualisation
-Area for personal data visualisation projects
+# Data Visualisation
+
+Repo to host my personal data visualisation projects - some completed for fun, some to learn something new, sometimes both.
